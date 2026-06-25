@@ -22,6 +22,7 @@ Each risk was scored independently on two dimensions. **Likelihood (1–5)** ref
 
 - `NorthLink_Risk_Register.xlsx` — the full 20-risk register, including a Risk Summary sheet with auto-calculated rollups and a built-in guide for extending the register with new rows.
 - `dashboard-export.png` — exported view of the Power BI dashboard built on top of this data.
+- `NorthLink_Password_Policy_Review.pdf` — one-page policy audit of the SANS Password Protection Policy, identifying 5 gaps including MFA enforcement, hashing algorithm specification, and event-based rotation triggers. Cross-referenced directly to risks in the Risk Register.
 
 ## Tools used
 
